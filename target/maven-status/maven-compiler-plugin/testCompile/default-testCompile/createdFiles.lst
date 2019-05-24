@@ -1,0 +1,8 @@
+com\javabrains\io\actuator\NoManagementSampleActuatorApplicationTests.class
+com\javabrains\io\actuator\ManagementAddressActuatorApplicationTests.class
+com\javabrains\io\actuator\SampleActuatorApplicationTests.class
+com\javabrains\io\actuator\ShutdownSampleActuatorApplicationTests.class
+com\javabrains\io\actuator\EndpointsPropertiesSampleActuatorApplicationTests.class
+com\javabrains\io\actuator\UnsecureSampleActuatorApplicationTests.class
+com\javabrains\io\actuator\ManagementPortSampleActuatorApplicationTests.class
+com\javabrains\io\actuator\UnsecureManagementSampleActuatorApplicationTests.class

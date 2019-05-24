@@ -1,0 +1,4 @@
+com\javabrains\io\actuator\SampleController.class
+com\javabrains\io\actuator\SampleActuatorApplication.class
+com\javabrains\io\actuator\HelloWorldService.class
+com\javabrains\io\actuator\ServiceProperties.class
