@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests" time="3.919" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests" time="1.92" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
     <property name="java.vm.version" value="25.172-b11"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\MuttuKS\Desktop\MyApp\SampleSpringBootApp"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\MuttuKS\Desktop\Git-hub Test\SampleSpringBootApp"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\MuttuKS\Desktop\MyApp\SampleSpringBootApp"/>
+    <property name="user.dir" value="C:\Users\MuttuKS\Desktop\Git-hub Test\SampleSpringBootApp"/>
     <property name="java.runtime.version" value="1.8.0_172-b11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
@@ -28,7 +28,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:\apache-maven-3.5.3\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Dell\DW WLAN Card;C:\PROGRAM FILES (X86)\INTEL\ICLS CLIENT\;C:\PROGRAM FILES\INTEL\ICLS CLIENT\;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\COMMON FILES\LENOVO\EASYPLUSSDK\BIN;C:\PROGRAM FILES\JAVA\JDK1.7.0_80\BIN;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Program Files\nodejs\;C:\apache-ant-1.10.3\bin;C:\WINDOWS\System32\OpenSSH\;C:\apache-maven-3.5.3\bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\helm\windows-amd64;C:\Program Files\IBM\Cloud\bin;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Users\MuttuKS\AppData\Local\Microsoft\WindowsApps;C:\Users\MuttuKS\AppData\Roaming\npm;C:\Users\MuttuKS\AppData\Local\atom\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Dell\DW WLAN Card;;C:\PROGRAM FILES (X86)\COMMON FILES\ORACLE\JAVA\JAVAPATH;C:\PROGRAM FILES (X86)\INTEL\ICLS CLIENT\;C:\PROGRAM FILES\INTEL\ICLS CLIENT\;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\COMMON FILES\LENOVO\EASYPLUSSDK\BIN;C:\PROGRAM FILES\JAVA\JDK1.7.0_80\BIN;;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\PROGRAM FILES\JAVA\JDK1.8.0_172\BIN;C:\PROGRAM FILES\NODEJS\;C:\APACHE-ANT-1.10.3\BIN;C:\WINDOWS\SYSTEM32\OPENSSH\;C:\APACHE-MAVEN-3.5.3\BIN;C:\PROGRAM FILES\PUTTY\;C:\PROGRAM FILES\GIT\CMD;C:\PROGRAM FILES\HELM\WINDOWS-AMD64;C:\PROGRAM FILES\IBM\CLOUD\BIN;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Users\MuttuKS\AppData\Local\Microsoft\WindowsApps;C:\Users\MuttuKS\AppData\Roaming\npm;C:\Users\MuttuKS\AppData\Local\atom\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;."/>
     <property name="maven.conf" value="C:\apache-maven-3.5.3\bin\../conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
@@ -64,6 +64,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testMetrics" classname="com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests" time="3.85"/>
-  <testcase name="testHomeIsSecure" classname="com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests" time="0.069"/>
+  <testcase name="testMetrics" classname="com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests" time="1.874"/>
+  <testcase name="testHomeIsSecure" classname="com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests" time="0.046"/>
 </testsuite>

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.125 sec - in com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.999 sec - in com.javabrains.io.actuator.UnsecureManagementSampleActuatorApplicationTests
